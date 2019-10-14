@@ -1,0 +1,119 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ake et~al.(2018)Ake, Munson, Stamatakos, Juckett, Coppersmith, and
+  Bommer]{Ake2018}
+J.~Ake, C.~Munson, J.~Stamatakos, M.~Juckett, K.~Coppersmith, and J.~Bommer.
+\newblock {Updated implementation guidelines for SSHAC hazard studies}.
+\newblock Technical report, Nuclear Regulatory Commission, Rainier, Oregon,
+  2018.
+
+\bibitem[Baker(2008)]{Baker2008}
+J.W. Baker.
+\newblock {An introduction to probabilistic seismic hazard analysis (PSHA)}.
+\newblock Technical report, Stanford University, Palo Alto, California, 2008.
+
+\bibitem[Bommer and Scherbaum(2008)]{Bommer2008}
+J.J. Bommer and F.~Scherbaum.
+\newblock {The use and misuse of logic trees in probabilistic seismic hazard
+  analysis}.
+\newblock \emph{Earthquake Spectra}, 24\penalty0 (4):\penalty0 997--1009, 2008.
+
+\bibitem[Budnitz et~al.(1997)Budnitz, Apostolakis, and Boore]{Budnitz1997}
+R.~J. Budnitz, G.~Apostolakis, and D.~M. Boore.
+\newblock {Recommendations for probabilistic seismic hazard analysis: guidance
+  on uncertainty and use of experts (No. NUREG/CR-6372-Vol. 1;
+  UCRL-ID-122160)}.
+\newblock Technical report, Nuclear Regulatory Commission and Lawrence
+  Livermore National Lab., Washington D. C., 1997.
+
+\bibitem[Cornell(1968)]{Cornell1968}
+C.A. Cornell.
+\newblock {Engineering seismic risk analysis}.
+\newblock \emph{Bulletin of the Seismological Society of America}, 58\penalty0
+  (5):\penalty0 1583--1606, 1968.
+
+\bibitem[DOE(2012{\natexlab{a}})]{DOE2012}
+DOE.
+\newblock {Natural phenomena hazards analysis and design criteria for DOE
+  facilities}.
+\newblock Technical report, Department of Energy, Washington D. C.,
+  2012{\natexlab{a}}.
+
+\bibitem[DOE(2012{\natexlab{b}})]{DOE2012a}
+DOE.
+\newblock {Facility Safety. U.S. Department of Energy DOE O 420.1C.}
+\newblock Technical report, Department of Energy, Washington D. C.,
+  2012{\natexlab{b}}.
+\newblock URL
+  \url{https://www.directives.doe.gov/directives-documents/400-series/0420.1-BOrder-c}.
+
+\bibitem[EPRI(2018)]{EPRI2018}
+EPRI.
+\newblock {Seismic fragility and seismic margin guidance for seismic
+  probabilistic risk assessments}.
+\newblock Technical report, Electric Power Research Institute, Palo Alto,
+  California, 2018.
+
+\bibitem[INL(2013)]{SAR2013}
+INL.
+\newblock {Hazard and accident analyses: Safety analysis report for the fuel
+  manufacturing facility}.
+\newblock Technical report, Idaho National Laboratory, Idaho Falls, Idaho,
+  2013.
+
+\bibitem[Kammerer and Ake(2012)]{Kammerer2012}
+A.~Kammerer and J.~Ake.
+\newblock {Practical implementation guidelines for SSHAC level 3 and 4 hazard
+  studies}.
+\newblock Technical report, Nuclear Regulatory Commission, Rainier, Oregon,
+  2012.
+
+\bibitem[Kammerer et~al.(2015)Kammerer, Coppersmith, Chokshi, and
+  Budnitz]{Kammerer2015}
+A.~Kammerer, K.~Coppersmith, N.~Chokshi, and R.B. Budnitz.
+\newblock {Proposed risk-informed seismic hazard periodic re-evaluation
+  methodology for complying with DOE order 420.1C}.
+\newblock Technical report, Idaho National Laboratory, Idaho Falls, Idaho,
+  2015.
+
+\bibitem[K.J. and J.J.(2012)]{Coppersmith2012}
+Coppersmith K.J. and Bommer J.J.
+\newblock {Use of the SSHAC methodology within regulated environments:
+  Cost-effective application for seismic characterization at multiple sites}.
+\newblock \emph{Nuclear Engineering and Design}, 245:\penalty0 233--240, 2012.
+
+\bibitem[McGuire(2008)]{McGuire2008}
+R.K. McGuire.
+\newblock {Probabilistic seismic hazard analysis: Early history}.
+\newblock \emph{Earthquake Engineering and Structural Dynamics}, 37\penalty0
+  (3):\penalty0 329--38, 2008.
+
+\bibitem[Pat\'e‐Cornell(1984)]{Pate1984}
+M.E. Pat\'e‐Cornell.
+\newblock {Fault trees vs. event trees in reliability analysis}.
+\newblock \emph{Risk Analysis}, 4\penalty0 (3):\penalty0 177--186, 1984.
+
+\bibitem[Payne et~al.(2017{\natexlab{a}})Payne, Coppersmith, Coppersmith,
+  Falero, Youngs, Rodriguez-Marek, and Silva]{Payne2017}
+S.J. Payne, K.J. Coppersmith, R.~Coppersmith, V.M. Falero, R.~Youngs,
+  A.~Rodriguez-Marek, and W.~Silva.
+\newblock {Application of the seismic hazard periodic re-evaluation methodology
+  using a SSHAC level 1 study at the Idaho National Laboratory}.
+\newblock In \emph{Seismic Lessons Learned DOE Meeting}, 2017{\natexlab{a}}.
+
+\bibitem[Payne et~al.(2017{\natexlab{b}})Payne, Coppersmith, Coppersmith,
+  Falero, Youngs, Rodriguez-Marek, and Silva]{Payne2017b}
+S.J. Payne, K.J. Coppersmith, R.~Coppersmith, V.M. Falero, R.R. Youngs,
+  A.~Rodriguez-Marek, and W.~Silva.
+\newblock {Assessing the need for an update of a probabilistic seismic hazard
+  analysis using a SSHAC level 1 study and the seismic hazard periodic
+  re-evaluation methodology}.
+\newblock \emph{Nuclear Engineering and Design}, 323:\penalty0 103--119,
+  2017{\natexlab{b}}.
+
+\end{thebibliography}
